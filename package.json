@@ -2,7 +2,7 @@
 	"author": "Carlos Ferreras",
 	"license": "MIT",
 	"scripts": {
-		"start": "node index.js"
+		"start": "node index.js -p $PORT"
 	},
 	"dependencies": {
 		"axios": "^0.17.1",
